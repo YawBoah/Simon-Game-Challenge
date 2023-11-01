@@ -2,6 +2,9 @@
 
 Welcome to **Simon: The Memory Game** – the ultimate memory challenge that's as exciting as a rollercoaster ride! 🎢 Strap in and get ready for a wild memory-boosting adventure! 💥
 
+![image](https://github.com/YawBoah/Simon-Game-Challenge/assets/126890146/d165be9b-af2f-4bc9-a17a-45e38bf6a8e2)
+
+
 
 
 ## 🌟 How to Play 🌟
