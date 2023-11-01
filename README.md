@@ -21,6 +21,8 @@ Welcome to **Simon: The Memory Game** – the ultimate memory challenge that's a
 5. **Mistakes**: 🚫 Oops, missed a beat? The game will play a "Game Over" tune to let you know. But don't worry – failure is the mother of success! 🙌 Just hit any key to restart.
 
 6. **Restart**: ♻️ Ready for another round of memory magic? Just press any key to start from Level 1 and rise to the challenge again!
+![image](https://github.com/YawBoah/Simon-Game-Challenge/assets/126890146/922cd485-547b-4463-824d-2cfd19f47cf8)
+
 
 ## 🚀 Get Ready to Challenge Your Memory 🧠
 
