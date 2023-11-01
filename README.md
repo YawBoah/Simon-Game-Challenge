@@ -2,15 +2,12 @@
 
 Welcome to **Simon: The Memory Game** – the ultimate memory challenge that's as exciting as a rollercoaster ride! 🎢 Strap in and get ready for a wild memory-boosting adventure! 💥
 
-![image](https://github.com/YawBoah/Simon-Game-Challenge/assets/126890146/d165be9b-af2f-4bc9-a17a-45e38bf6a8e2)
-
-![image](https://github.com/YawBoah/Simon-Game-Challenge/assets/126890146/825390f8-82fc-45b8-bd38-12a164405981)
-
-
-
 ## 🌟 How to Play 🌟
 
 1. **Starting the Game**: 🚀 Dive into the fun! When you open the game, you'll see the message "Press A Key to Start" displayed on the screen. Just hit any key on your keyboard to ignite the memory challenge! 🎉
+![image](https://github.com/YawBoah/Simon-Game-Challenge/assets/126890146/d165be9b-af2f-4bc9-a17a-45e38bf6a8e2)
+
+![image](https://github.com/YawBoah/Simon-Game-Challenge/assets/126890146/825390f8-82fc-45b8-bd38-12a164405981)
 
 2. **Game Sequence**: 🔥 Get ready for the show! The game kicks off with a dazzling sequence of colors lighting up and playing funky sounds. 🎵 Keep your eyes and ears wide open! This is the pattern you need to remember.
 
