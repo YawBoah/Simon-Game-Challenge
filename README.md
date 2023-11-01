@@ -4,6 +4,7 @@ Welcome to **Simon: The Memory Game** – the ultimate memory challenge that's a
 
 ![image](https://github.com/YawBoah/Simon-Game-Challenge/assets/126890146/d165be9b-af2f-4bc9-a17a-45e38bf6a8e2)
 
+![image](https://github.com/YawBoah/Simon-Game-Challenge/assets/126890146/825390f8-82fc-45b8-bd38-12a164405981)
 
 
 
