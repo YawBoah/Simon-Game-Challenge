@@ -10,6 +10,8 @@ Welcome to **Simon: The Memory Game** – the ultimate memory challenge that's a
 
 2. **Game Sequence**: 🔥 Get ready for the show! The game kicks off with a dazzling sequence of colors lighting up and playing funky sounds. 🎵 Keep your eyes and ears wide open! This is the pattern you need to remember.
 
+![image](https://github.com/YawBoah/Simon-Game-Challenge/assets/126890146/825390f8-82fc-45b8-bd38-12a164405981)
+
 3. **Your Turn**: 🤩 The stage is yours! After the dazzling sequence, it's your turn to mimic the pattern. Click those colored buttons like the memory champion you are! 💪
 
 4. **Correct Moves**: 🌈 You're on fire! If you accurately repeat the sequence, you'll level up. The game will add another color to the pattern, ramping up the challenge. Let's keep the memory party going!
