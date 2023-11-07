@@ -33,7 +33,6 @@ Simon: The Memory Game is your key to the memory hall of fame. With each level, 
 - **Google Fonts**: Adding a touch of style and character.
 
 ## 🎶 Play with Sound 🔊
-
 Each color has its unique sound – it's like a memory symphony! Enjoy the rhythm and harmony of Simon: The Memory Game as you challenge your memory. It's like a dance party for your brain! 🎉💃
 
 ## 🧠 Test Your Memory 🧠
