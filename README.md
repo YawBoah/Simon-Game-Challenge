@@ -22,7 +22,6 @@ Welcome to **Simon: The Memory Game** – the ultimate memory challenge that's a
 ![image](https://github.com/YawBoah/Simon-Game-Challenge/assets/126890146/922cd485-547b-4463-824d-2cfd19f47cf8)
 
 ## 🚀 Get Ready to Challenge Your Memory 🧠
-
 Simon: The Memory Game is your key to the memory hall of fame. With each level, the patterns get wilder, the colors get brighter, and the sounds get funkier. 🎶
 
 **How far can you go? It's a memory marathon, and you're the star! 🌟**
