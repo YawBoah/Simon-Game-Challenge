@@ -27,7 +27,7 @@ Simon: The Memory Game is your key to the memory hall of fame. With each level, 
 
 **How far can you go? It's a memory marathon, and you're the star! 🌟**
 
-## 💡 Powered by Web Technologies 💻
+## 💡Powered by Web Technologies 💻
 
 - **HTML**: The game's playground.
 - **CSS**: The game's costume designer.
