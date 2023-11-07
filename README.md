@@ -36,7 +36,6 @@ Simon: The Memory Game is your key to the memory hall of fame. With each level, 
 Each color has its unique sound – it's like a memory symphony! Enjoy the rhythm and harmony of Simon: The Memory Game as you challenge your memory. It's like a dance party for your brain! 🎉💃
 
 ## 🧠 Test Your Memory 🧠
-
 Ready to push your memory to the limit, impress your friends, and have a blast with Simon: The Memory Game? Try it now, and let's see if you've got the memory skills to rock the world!
 
 Get ready for an epic memory adventure! 🎮🌈
